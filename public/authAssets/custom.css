@@ -1,0 +1,11 @@
+.validation-div{ color: #ba2020; }
+.btn-primary{ color: #fff; background-color: #f0b922; border-color: #f0b922; }
+.btn-primary:hover{ background-color: #f0b922; border-color: #f0b922; }
+.text-primary {color: #f0b922 !important;}
+.btn-link {color: #f0b922;}
+.btn-link:hover {color: #f0b922;}
+a.text-primary:hover, a.text-primary:focus {color: #f0b922 !important;}
+a {color: #f0b922;}
+a:hover {color: #f0b922;}
+.swal2-content{font-size: 15px!important;}
+.swal2-popup{font-size: 15px!important;}

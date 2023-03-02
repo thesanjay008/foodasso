@@ -1,0 +1,78 @@
+.display-none{display:none;}
+.validation-div{color:red;}
+.image-preview{padding: 10px 2px; max-width: 225px; max-height: 225px;}
+.swal2-popup{font-size: 15px!important;}
+.text-theme{color: #f0bb22 !important;}
+.btn-theme{background: #f0b922; border-color: #f0b922;}
+.btn-theme:hover {background-color: #f1c43a; border-color: #f1c43a;}
+.widget-chart .widget-numbers{font-size: 2.1rem;}
+.fade:not(.show){opacity: 10;}
+.qr-code-box{padding:100px;}
+.nav-order-count{display:none;}
+
+/* Order Page */
+.list_general>ul {padding: 0;margin: 0;list-style: none;}
+.list_general>ul>li {margin: 0 -30px 0 -30px;position: relative;padding: 30px 30px 5px 120px;border-top: 1px solid #ededed;}
+.list_general>ul>li figure {
+    width: 70px;
+    height: 70px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
+    overflow: hidden;
+    position: absolute;
+    left: 30px;
+    top: 30px;
+	margin: 0 0 1rem;
+    display: block;
+}
+ul.booking_list {
+    list-style: none;
+    margin: 15px 0 25px 0;
+    padding: 0;
+}
+ul.booking_list li {
+    margin-bottom: 5px;
+}
+ul.booking_list li strong {
+    width: 150px;
+    display: inline-block;
+	font-weight: 500;
+}
+ul.buttons {
+    list-style: none;
+    margin: 0 0 30px 0;
+    padding: 0;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+}
+ul.buttons li {
+    display: inline-block;
+    margin-right: 3px;
+}
+.total_order {
+    padding: 20px 0;
+    text-align: right;
+}
+.total_order ul {
+    list-style: none;
+    margin: 0 0 15px 0;
+    padding: 0;
+    font-weight: 500;
+    font-size: 16px;
+    font-size: 1rem;
+}
+.total_order ul li span {
+    float: left;
+}
+
+.total_order ul li:last-child {
+    margin-top: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #ff5353;
+    font-size: 21px;
+    font-size: 1.3125rem;
+}

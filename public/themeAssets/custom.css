@@ -1,0 +1,53 @@
+.swal2-container.swal2-center {z-index: 999999;}
+.swal2-container .swal2-popup {font-size: 17px;}
+.main-menu ul a.order-now-btn {padding: 5px 7px 5px 7px; border-radius: 4px; background: #ea564a;color: #fff!important;}
+.user-img img {width: 150px; height: 150px; border-radius: 50%;}
+.bg_white{background:#fff;}
+.box_orders{background:#fff; padding:22px;}
+.order_item{background-color: #f1f1f1!important;}
+.order-status-btn{overflow: hidden;position: absolute;margin: 0;right: 15px;top: 15px;border: 1px solid #fff;}
+.order-item-img{width: 60px; height: 60px;}
+.order-item-title{margin-left: 12px;}
+.order-item-price{margin-left: 6px;}
+.account-nav{list-style:none; text-align: left; margin: 0px; padding: 0; margin-top: 25px;}
+.account-nav li{background: #e9e9e94f; padding: 12px; margin-bottom: 5px;}
+.address-list{padding: 20px;}
+.home-book-box {
+    background-color: #fff;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 0 32px -7px rgb(0 0 0 / 10%);
+    -moz-box-shadow: 0 0 32px -7px rgba(0,0,0,0.1);
+    box-shadow: 0 0 32px -7px rgb(0 0 0 / 10%);
+    padding: 30px 30px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+.home-book-box .dropdown a{text-align: left;}
+.home-book-box .styled-select{height: 42px; line-height: 40px;}
+.home-book-box a.btn_1{padding: 11px 45px;}
+
+/* Menu Page **/
+.table.cart-list td figure{width: 260px; height: auto;}
+.table.cart-list td figure img{width: 120px; border-radius: 5px;}
+.table td, .table th{border-top: none;}
+.table tr{border-bottom: 1px solid #dee2e6;}
+.secondary_nav ul li {margin-bottom: 15px;}
+.food-type-icon-conatiner {width: 12px;height: 12px; display: flex; align-items: center; justify-content: center; position: absolute; top: 10px; left: 10px; position: static;width: 14px;height: 14px;margin-right: 4px;margin-bottom: 4px;}
+.food-type-icon-conatiner.veg{border: 1px solid #4caf50; background: #fff;}
+.food-type-icon-conatiner.nonveg{border: 1px solid #f00707; background: #fff;}
+
+.food-type-icon-conatiner .food-icon {border-radius: 50%; width: 6px;height: 6px;}
+.food-type-icon-conatiner .veg {background: #4caf50;}
+.food-type-icon-conatiner .nonveg {background: #f00707;}
+
+.hero_single.version_1 {background: #faf3cc url(img/web-banner-ng.png) center top no-repeat;}
+@media (max-width: 991px){
+	#logo img{height: 50px;}
+	#header_menu a img{height: 50px;}
+}
+@media (max-width:1199px){
+	.hero-banner-img{display:none;}
+}
